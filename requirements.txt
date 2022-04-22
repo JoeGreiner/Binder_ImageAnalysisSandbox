@@ -1,0 +1,9 @@
+nbgitpuller
+
+jupyter
+matplotlib
+numpy
+scikit-image
+itk
+itkwidgets==0.32.0
+pandas
